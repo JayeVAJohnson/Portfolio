@@ -12,7 +12,9 @@ You can view my current portfolio at [https://github.com/JayeVAJohnson/Portfolio
 
 ## About Me
 
-Text to follow / Work in Progress</p>
+Insightful computer science self-study student who excels at HTML, CSS, and R, getting acquainted Python and so much more. Seeking an entry-level tech role or returnship at a right-fit startup or any-size organization. 
+
+</p>
 
 ## Experience
 
@@ -29,7 +31,8 @@ Job Description and Achievements Will Here
 Job Description and Achievements Will Here
 
 
-## Education
+## Education - College
+   (Certifications and technical education can be found below)
 
 ### School 1 Will Go Here
 
@@ -49,7 +52,7 @@ Description of Achievement 1 will go here
 
 Etc. 
 
-## Techinical Skill Stack
+## Techinical Knowledge and Skill Stack
 
 ### Front End
 
