@@ -49,47 +49,48 @@ Insightful computer science self-study student who excels at HTML, CSS, and R, g
 
 ### Amazon, Seattle, WA, Seller Support & Customer Support Representative (2016 – 2019)
 
-Front-Facing Customer, Vendor, Internal Team Triage, and Problem Solving.</br>
-Via Phone, Email, Chat, and In-Person: utilized Microsoft Office Suite, Google Suite, Salesforce, Infusionsoft</br>
-and other resources, Assisted B2C and B2B clients in expediting orders, logistics, and resolving</br>
-technical/sales-issues.</br>
-Worked with internal team, vendors, cross-pollinated teams, clients, customers, and myriad stakeholders in</br>
-the Amazon Seller Support family of products and services such as Amazon Restaurants, Amazon Fashion,</br>
-Amazon Seller Support, and Amazon Services (Selling of B2C Service Products).</br>
-Assisted with interdepartmental marketing and HR projects, published internal newsletter, support in</br>
-implementing and fulfilling service and performance metrics and rewards for meeting and exceeding individual</br>
-and collective goals.</br>
-Account management,Seller Support, client follow up.</br>
+- Front-Facing Customer, Vendor, Internal Team Triage, and Problem Solving.</br>
+- Via Phone, Email, Chat, and In-Person: utilized Microsoft Office Suite, Google Suite, Salesforce, Infusionsoft</br>
+  and other resources, Assisted B2C and B2B clients in expediting orders, logistics, and resolving</br>
+  technical/sales-issues.</br>
+- Worked with internal team, vendors, cross-pollinated teams, clients, customers, and myriad stakeholders in</br>
+  the Amazon Seller Support family of products and services such as Amazon Restaurants, Amazon Fashion,</br>
+- Amazon Seller Support, and Amazon Services (Selling of B2C Service Products).</br>
+- Assisted with interdepartmental marketing and HR projects, published internal newsletter, support in</br>
+  implementing and fulfilling service and performance metrics and rewards for meeting and exceeding individual</br>
+  and collective goals.</br>
+- Account management,Seller Support, client follow up.</br>
 
 
 ## Education - College
    (Certifications and technical education can be found at the bottommost part of the portfolio page)
    
-UC Irvine/Pomona College Claremont, Irvine/Claremont, CA (2018 – Present)</br>
-Anticipated Bachelor of Arts in Communication & Media Studies Degree </br>
-Studies on hold for financial reasons.</br>
+- UC Irvine/Pomona College Claremont, Irvine/Claremont, CA (2018 – Present)</br>
+  Anticipated Bachelor of Arts in Communication & Media Studies Degree </br>
+
+ Studies on hold for financial reasons.</br>
 
 ## Awards and Honors
-Alongside UCSF Colleagues, Covid-19 Data Hero Nominees (Dataheroawards.org) (2021)</br>
-Data Entry & Transcription: Medical, Mental Health, Legal, Court, Media and General Skill Set (2022)</br>
-Data Entry & Transcription: Typing Speed: 90-120 WPM (2022)</br>
-Data Entry & Transcription: Real-Time/Live Transcription Skill Set and Experience (2022)</br>
-Amazon Customer Service/Seller Support/Logistics Operator Training (2022)</br>
-Amazon Seller Support Highly Valued Associate - Annual Review Rating - Awarded "The A Grade" (2019)</br>
-French, Spanish, ASL-Literate (Native English Speaker)</br>
+
+- Alongside UCSF Colleagues, Covid-19 Data Hero Nominees (Dataheroawards.org) (2021)</br>
+- Data Entry & Transcription: Medical, Mental Health, Legal, Court, Media and General Skill Set (2022)</br>
+- Data Entry & Transcription: Typing Speed: 90-120 WPM (2022)</br>
+- Data Entry & Transcription: Real-Time/Live Transcription Skill Set and Experience (2022)</br>
+- Amazon Customer Service/Seller Support/Logistics Operator Training (2022)</br>
+- Amazon Seller Support Highly Valued Associate - Annual Review Rating - Awarded "The A Grade" (2019)</br>
+- French, Spanish, ASL-Literate (Native English Speaker)</br>
 
 ## Certifications, Licenses & Training
-Certification, Good Clinical Practices and Human Subject Protection Training (2022)</br>
-OSHA Training (2022)</br>
-HIPAA Training (2022)</br>
+- Certification, Good Clinical Practices and Human Subject Protection Training (2022)</br>
+- OSHA Training (2022)</br>
+- HIPAA Training (2022)</br>
 
 
 ## Recent Projects & Achievements 
-Certification, Good Clinical Practices and Human Subject Protection Training (2022)</br>
-OSHA Training (2022)</br>
-HIPAA Training (2022)</br>
+- Certification, Good Clinical Practices and Human Subject Protection Training (2022)</br>
+- OSHA Training (2022)</br>
+- HIPAA Training (2022)</br>
  
-
 ## Techinical Knowledge and Skill Stack
 
 ### Front End
