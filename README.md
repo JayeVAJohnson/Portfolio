@@ -93,14 +93,13 @@ Etc.
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayevajohnson/" /></a>
  
 </p>  
+ 
+----------------------
 
 ## Certification Citations to Follow. 
 
-</br>
-
 ----------------------
-----------------------
-## Portfolio Template
+Portfolio Backgrounder
 
 I've pulled this fork from the talented Chelsea Tolnai, and am in the process of borrowing code from X.  I am still in the process of editing it to fit my experience and knowledge to date.This will be a living document, as they all are (until they aren't). :)
 
