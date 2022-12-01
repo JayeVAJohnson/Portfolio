@@ -16,19 +16,53 @@ Insightful computer science self-study student who excels at HTML, CSS, and R, g
 
 </p>
 
-## Experience
+## Work Experience
 
-### Company - Position Will Go Here
+### GoLance & Upwork - Berkeley, CA, Independent Tech & Admin Contractor (2014 – Present)
 
-Job Description and Achievements Will Here
+Administrative Support
+Tier 1 Technical Support
+Account Management
+Research and Transcription
+Tech-Centric Customer Service for Online and Offline Orgs
+Tech and Pharma Experience and Certifications
+Additional Project-Based Work for Brick-and-mortar organizations such as Upwork Headquarters San
+Francisco, UC San Francisco, Freebase API/Google, Ask.com, and various solopreneurs and organizations.
 
-### Company - Position Will Go Here
+### UC San Francisco, San Francisco, CA, Jr. Data Scientist, Transcription/Grants Assistant (2020 – 2021)
 
-Job Description and Achievements Will Here
+Public Health Research & Admin Support Alongside UCSF Epidemiology Team.
+Used mathematical models, statistical analysis, and software simulations to investigate collective behavior of
+populations and communities, conveyed that information to our team of public health scientists, teaching
+physicians, medical students, and frontline essential workers.
+My role included coding support, code and medical transcription, administrative support, and entry-level
+coding, reportage, and research.
+Projects included Covid-19 tracking and reporting (internal and public-facing).
+Research of/publications involving data science, medical ethics, diversity/BIPOC interfacing with health care
+organizations, disease transmission dynamics, et al.
+Via MS Access, executed SQL queries and retrieved/reported on data regarding regional Covid 19 cases and
+trends
+Used tools like LaTex, Mathlab, Python, HTML, CSS, PHP, Gitlab/Github, Command Line familiarity (Linux,
+Windows, Windows, Chromebook/Linux OS, Alternative GUIs), Javascript, jQuery, and Tidyverse.
+Additional Responsibilities included scientific writing, grant writing and research, numerical simulation, and
+Wiki development.
+Academic/Scientific Grant Proposal Composition, research, creation & submission to grantors.
 
-### Company - Position Will Go Here
 
-Job Description and Achievements Will Here
+### Amazon, Seattle, WA, Seller Support & Customer Support Representative (2016 – 2019)
+
+
+Front-Facing Customer, Vendor, Internal Team Triage, and Problem Solving.
+Via Phone, Email, Chat, and In-Person: utilized Microsoft Office Suite, Google Suite, Salesforce, Infusionsoft
+and other resources, Assisted B2C and B2B clients in expediting orders, logistics, and resolving
+technical/sales-issues.
+Worked with internal team, vendors, cross-pollinated teams, clients, customers, and myriad stakeholders in
+the Amazon Seller Support family of products and services such as Amazon Restaurants, Amazon Fashion,
+Amazon Seller Support, and Amazon Services (Selling of B2C Service Products).
+Assisted with interdepartmental marketing and HR projects, published internal newsletter, support in
+implementing and fulfilling service and performance metrics and rewards for meeting and exceeding individual
+and collective goals.
+Account management,Seller Support, client follow up.
 
 
 ## Education - College
