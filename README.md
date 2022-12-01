@@ -4,11 +4,9 @@ I am a Full Stack Web Developer in training currently located in The Bay Area. T
 
 I've pulled this fork from the talented [Chelsea Tolnai](https://github.com/ChelseaTolnai/Portfolio), and borrowed code from the talented [Cleiton Correa](https://github.com/CleitonCorrea/my-certifications).
 
-I am still in the process of editing this page.
+The aim of my portfolio is to highlight my budding experience, skill set, education, projects-to-be, ever-evolving stack, how to reach me, and details about me.
 
-The aim of this is to highlight my budding experience, skill set, education, projects-to-be, ever-evolving stack, how to reach me, and details about me.
-
-You can view my current portfolio at [https://github.com/JayeVAJohnson/Portfolio](https://github.com/JayeVAJohnson/Portfolio).
+You can view this current portfolio at the permalink [https://github.com/JayeVAJohnson/Portfolio](https://github.com/JayeVAJohnson/Portfolio).
 
 ## About Me
 
@@ -20,14 +18,14 @@ Insightful computer science self-study student who excels at HTML, CSS, and R, g
 
 ### GoLance & Upwork - Berkeley, CA, Independent Tech & Admin Contractor (2014 – Present)
 
-Administrative Support</br>
-Tier 1 Technical Support</br>
-Account Management</br>
-Research and Transcription</br>
-Tech-Centric Customer Service for Online and Offline Orgs</br>
-Tech and Pharma Experience and Certifications</br>
-Additional Project-Based Work for Brick-and-mortar organizations such as Upwork Headquarters San</br>
-Francisco, UC San Francisco, Freebase API/Google, Ask.com, and various solopreneurs and organizations.</br>
+- Administrative Support</br>
+- Tier 1 Technical Support</br>
+- Account Management</br>
+- Research and Transcription</br>
+- Tech-Centric Customer Service for Online and Offline Orgs</br>
+- Tech and Pharma Experience and Certifications</br>
+- Additional Project-Based Work for Brick-and-mortar organizations such as Upwork Headquarters San</br>
+  Francisco, UC San Francisco, Freebase API/Google, Ask.com, and various solopreneurs and organizations.</br>
 
 ### UC San Francisco, San Francisco, CA, Jr. Data Scientist, Transcription/Grants Assistant (2020 – 2021)
 
