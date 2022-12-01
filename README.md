@@ -20,49 +20,48 @@ Insightful computer science self-study student who excels at HTML, CSS, and R, g
 
 ### GoLance & Upwork - Berkeley, CA, Independent Tech & Admin Contractor (2014 – Present)
 
-Administrative Support
-Tier 1 Technical Support
-Account Management
-Research and Transcription
-Tech-Centric Customer Service for Online and Offline Orgs
-Tech and Pharma Experience and Certifications
-Additional Project-Based Work for Brick-and-mortar organizations such as Upwork Headquarters San
-Francisco, UC San Francisco, Freebase API/Google, Ask.com, and various solopreneurs and organizations.
+Administrative Support</br>
+Tier 1 Technical Support</br>
+Account Management</br>
+Research and Transcription</br>
+Tech-Centric Customer Service for Online and Offline Orgs</br>
+Tech and Pharma Experience and Certifications</br>
+Additional Project-Based Work for Brick-and-mortar organizations such as Upwork Headquarters San</br>
+Francisco, UC San Francisco, Freebase API/Google, Ask.com, and various solopreneurs and organizations.</br>
 
 ### UC San Francisco, San Francisco, CA, Jr. Data Scientist, Transcription/Grants Assistant (2020 – 2021)
 
-Public Health Research & Admin Support Alongside UCSF Epidemiology Team.
-Used mathematical models, statistical analysis, and software simulations to investigate collective behavior of
-populations and communities, conveyed that information to our team of public health scientists, teaching
-physicians, medical students, and frontline essential workers.
-My role included coding support, code and medical transcription, administrative support, and entry-level
-coding, reportage, and research.
-Projects included Covid-19 tracking and reporting (internal and public-facing).
-Research of/publications involving data science, medical ethics, diversity/BIPOC interfacing with health care
-organizations, disease transmission dynamics, et al.
-Via MS Access, executed SQL queries and retrieved/reported on data regarding regional Covid 19 cases and
-trends
+Public Health Research & Admin Support Alongside UCSF Epidemiology Team.</br>
+Used mathematical models, statistical analysis, and software simulations to investigate collective behavior of</br>
+populations and communities, conveyed that information to our team of public health scientists, teaching</br>
+physicians, medical students, and frontline essential workers.</br>
+My role included coding support, code and medical transcription, administrative support, and entry-level</br>
+coding, reportage, and research.</br>
+Projects included Covid-19 tracking and reporting (internal and public-facing).</br>
+Research of/publications involving data science, medical ethics, diversity/BIPOC interfacing with health care</br>
+organizations, disease transmission dynamics, et al.</br>
+Via MS Access, executed SQL queries and retrieved/reported on data regarding regional Covid 19 cases and</br>
+trends</br>
 Used tools like LaTex, Mathlab, Python, HTML, CSS, PHP, Gitlab/Github, Command Line familiarity (Linux,
-Windows, Windows, Chromebook/Linux OS, Alternative GUIs), Javascript, jQuery, and Tidyverse.
+Windows, Windows, Chromebook/Linux OS, Alternative GUIs), Javascript, jQuery, and Tidyverse.</br>
 Additional Responsibilities included scientific writing, grant writing and research, numerical simulation, and
-Wiki development.
-Academic/Scientific Grant Proposal Composition, research, creation & submission to grantors.
+Wiki development.</br>
+Academic/Scientific Grant Proposal Composition, research, creation & submission to grantors.</br>
 
 
 ### Amazon, Seattle, WA, Seller Support & Customer Support Representative (2016 – 2019)
 
-
-Front-Facing Customer, Vendor, Internal Team Triage, and Problem Solving.
-Via Phone, Email, Chat, and In-Person: utilized Microsoft Office Suite, Google Suite, Salesforce, Infusionsoft
-and other resources, Assisted B2C and B2B clients in expediting orders, logistics, and resolving
-technical/sales-issues.
-Worked with internal team, vendors, cross-pollinated teams, clients, customers, and myriad stakeholders in
-the Amazon Seller Support family of products and services such as Amazon Restaurants, Amazon Fashion,
-Amazon Seller Support, and Amazon Services (Selling of B2C Service Products).
-Assisted with interdepartmental marketing and HR projects, published internal newsletter, support in
-implementing and fulfilling service and performance metrics and rewards for meeting and exceeding individual
-and collective goals.
-Account management,Seller Support, client follow up.
+Front-Facing Customer, Vendor, Internal Team Triage, and Problem Solving.</br>
+Via Phone, Email, Chat, and In-Person: utilized Microsoft Office Suite, Google Suite, Salesforce, Infusionsoft</br>
+and other resources, Assisted B2C and B2B clients in expediting orders, logistics, and resolving</br>
+technical/sales-issues.</br>
+Worked with internal team, vendors, cross-pollinated teams, clients, customers, and myriad stakeholders in</br>
+the Amazon Seller Support family of products and services such as Amazon Restaurants, Amazon Fashion,</br>
+Amazon Seller Support, and Amazon Services (Selling of B2C Service Products).</br>
+Assisted with interdepartmental marketing and HR projects, published internal newsletter, support in</br>
+implementing and fulfilling service and performance metrics and rewards for meeting and exceeding individual</br>
+and collective goals.</br>
+Account management,Seller Support, client follow up.</br>
 
 
 ## Education - College
