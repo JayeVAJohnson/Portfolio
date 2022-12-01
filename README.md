@@ -73,7 +73,7 @@ Etc.
 
 ### Admin, Editing, and Office Tools
 
-`Microsoft Office` `Word` `Excel` `PowerPoint` `Adobe` `GSuite` `Open Office Suite` `Zoho Suite` `OverLeaf LaTex Editor` 
+`Microsoft Office` `Word` `Excel` `PowerPoint` `Adobe` `GSuite` `Open Office Suite` `Zoho Suite` `OverLeaf(LaTex Editor)` 
 
 
 ----------------------
