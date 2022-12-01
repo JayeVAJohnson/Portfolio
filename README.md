@@ -29,22 +29,22 @@ Insightful computer science self-study student who excels at HTML, CSS, and R, g
 
 ### UC San Francisco, San Francisco, CA, Jr. Data Scientist, Transcription/Grants Assistant (2020 – 2021)
 
-Public Health Research & Admin Support Alongside UCSF Epidemiology Team.</br>
-Used mathematical models, statistical analysis, and software simulations to investigate collective behavior of</br>
-populations and communities, conveyed that information to our team of public health scientists, teaching</br>
-physicians, medical students, and frontline essential workers.</br>
-My role included coding support, code and medical transcription, administrative support, and entry-level</br>
-coding, reportage, and research.</br>
-Projects included Covid-19 tracking and reporting (internal and public-facing).</br>
-Research of/publications involving data science, medical ethics, diversity/BIPOC interfacing with health care</br>
-organizations, disease transmission dynamics, et al.</br>
-Via MS Access, executed SQL queries and retrieved/reported on data regarding regional Covid 19 cases and</br>
-trends</br>
-Used tools like LaTex, Mathlab, Python, HTML, CSS, PHP, Gitlab/Github, Command Line familiarity (Linux,
-Windows, Windows, Chromebook/Linux OS, Alternative GUIs), Javascript, jQuery, and Tidyverse.</br>
-Additional Responsibilities included scientific writing, grant writing and research, numerical simulation, and
-Wiki development.</br>
-Academic/Scientific Grant Proposal Composition, research, creation & submission to grantors.</br>
+- Public Health Research & Admin Support Alongside UCSF Epidemiology Team.</br>
+- Used mathematical models, statistical analysis, and software simulations to investigate collective behavior of</br>
+  populations and communities, conveyed that information to our team of public health scientists, teaching</br>
+  physicians, medical students, and frontline essential workers.</br>
+- My role included coding support, code and medical transcription, administrative support, and entry-level</br>
+  coding, reportage, and research.</br>
+- Projects included Covid-19 tracking and reporting (internal and public-facing).</br>
+- Research of/publications involving data science, medical ethics, diversity/BIPOC interfacing with health care</br>
+  organizations, disease transmission dynamics, et al.</br>
+- Via MS Access, executed SQL queries and retrieved/reported on data regarding regional Covid 19 cases and</br>
+  trends</br>
+- Used tools like LaTex, Mathlab, Python, HTML, CSS, PHP, Gitlab/Github, Command Line familiarity (Linux,
+  Windows, Windows, Chromebook/Linux OS, Alternative GUIs), Javascript, jQuery, and Tidyverse.</br>
+- Additional Responsibilities included scientific writing, grant writing and research, numerical simulation, and
+  Wiki development.</br>
+- Academic/Scientific Grant Proposal Composition, research, creation & submission to grantors.</br>
 
 
 ### Amazon, Seattle, WA, Seller Support & Customer Support Representative (2016 – 2019)
