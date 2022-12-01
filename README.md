@@ -84,17 +84,19 @@ Etc.
 <img src="https://github.com/JayeVAJohnson/Portfolio/blob/master/images/computer-illustration.png" align="right" alt="Computador iuriCode">
 
 <p align="left">
- 🦄 🤝 Certifications In Progress
+ 🦄  Certifications In Progress.
  
 </p>
  
-
+ 🤝 Contact Me:
   <a href="https://www.linkedin.com/in/jayevajohnson" alt="Linkedin" target="_blank" >
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayevajohnson/" /></a>
  
 </p>  
 
-## Certifications and Proof, Year/s, Will Go Here: ORACLE | IBM | MICROSOFT |EC-COUNCIL | ATLASSIAN | REDIS | MONGO | COMPTIA | CISCO | FORTNET etc...  
+## Certification Citations to Follow. 
+
+</br>
 
 ----------------------
 ----------------------
