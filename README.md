@@ -10,7 +10,7 @@ You can view this current portfolio at the permalink [https://github.com/JayeVAJ
 
 ## About Me
 
-Insightful computer science self-study student who excels at HTML, CSS, and R, who's getting acquainted with Python, and so much more. Seeking an entry-level tech role or returnship at a right-fit startup or any-size organization.<br>
+Aspiring computer science self-study student who excels at HTML, CSS, and R, who's getting acquainted with Python, and so much more. Seeking an entry-level tech role or returnship at a right-fit startup or any-size organization.<br>
 
 <br>I am in the unique position of having learned the skill sets mentioned below while on the job and having worked on behalf of others (as a transcriptionist and data science project assistant among other roles). Therefore, I have come to realize I need to find more ways to better illustrate my self-taught technical knowledge more demonstrably. This is why there is a gap or delay in my certification process -- I'd simply been learning and applying these skills on the job without earning certs alongside the work experience I was accumulating. 
 
