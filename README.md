@@ -4,7 +4,7 @@ I am a Full Stack Web Developer in training currently located in The Bay Area. T
 
 I've pulled this fork from the talented [Chelsea Tolnai](https://github.com/ChelseaTolnai/Portfolio), and borrowed code from the talented [Cleiton Correa](https://github.com/CleitonCorrea/my-certifications).
 
-The aim of my portfolio is to highlight my budding experience, skill set, education, projects-to-be, ever-evolving stack, how to reach me, and details about me.
+The aim of my portfolio is to highlight my budding experience, skill set, education, projects-to-be, ever-evolving stack, how to reach me, and other details about me.
 
 You can view this current portfolio at the permalink [https://github.com/JayeVAJohnson/Portfolio](https://github.com/JayeVAJohnson/Portfolio).
 
