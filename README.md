@@ -109,7 +109,7 @@ Aspiring computer science self-study student who excels at HTML, CSS, and R, who
 
 ### Programming Tools & Deployment
 
-`Git` `Github` `Gitlab` `Posit (Previously RStudio)` `OverLeaf` 
+`Git` `Github` `Gitlab` `Posit (Previously RStudio)` `OverLeaf` `Kaggle` `Jupyter Notebooks` 
 
 ### Testing
 
