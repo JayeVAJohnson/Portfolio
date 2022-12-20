@@ -95,6 +95,10 @@ Aspiring computer science self-study student who excels at HTML, CSS, and R, who
  
 ## Techinical Knowledge and Skill Stack
 
+### General 
+
+Clickable: <a href="https://www.linkedin.com/in/jayevajohnson/details/skills" alt="Linkedin" target="_blank" >'LinkedIn Test Results and Testimonials'</a>
+
 ### Front End
 
 `HTML` `CSS` `Wordpress Development`
