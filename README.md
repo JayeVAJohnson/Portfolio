@@ -113,7 +113,7 @@ Clickable: <a href="https://www.linkedin.com/in/jayevajohnson/details/skills" al
 
 ### Programming Tools & Deployment
 
-`Git` `Github` `Gitlab` `Posit (Previously RStudio)` `OverLeaf` `Kaggle` `Jupyter Notebooks` 
+`Git` `Github` `Gitlab` `Posit (Previously RStudio)` `OverLeaf` `Kaggle` `Jupyter Notebooks`  `Zotero (Citation Tool)` 
 
 ### Testing
 
