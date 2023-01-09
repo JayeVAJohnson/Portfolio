@@ -85,7 +85,7 @@ Aspiring computer science self-study student who excels at HTML, CSS, and R, who
 ## Certifications, Licenses & Training
 - Certification, Good Clinical Practices and Human Subject Protection Training (2022)</br>
 - OSHA Training (2022)</br>
-- HIPAA Training (2022)</br>
+- HIPAA Training (2023) - Knowbe4: HIPAA for Business Associates</br>
 
 
 ## Recent Projects & Achievements 
