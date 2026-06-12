@@ -10,7 +10,7 @@ You can view this current portfolio at the permalink [https://github.com/JayeVAJ
 
 ## About Me
 
-Check Out My Latest Project (2026): DashPirational [https://github.com/JayeVAJohnson/DashPirational]
+Check Out My Latest Project (2026): DashPirational https://github.com/JayeVAJohnson/DashPirational
 
 Aspiring computer science self-study student who excels at HTML, CSS, and R, who's getting acquainted with Python, and so much more. Seeking an entry-level tech role or returnship at a right-fit startup or any-size organization.<br>
 
