@@ -1,3 +1,5 @@
+<!doctype html>
+          {
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -300,6 +302,52 @@
       color: var(--charcoal);
     }
 
+    .tag.cert {
+      background: var(--orange-light);
+      border-color: #E8C4B0;
+      color: var(--orange);
+      font-weight: 500;
+    }
+
+    /* CERTIFICATIONS */
+    .cert-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+
+    .cert-card {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      transition: border-color 0.2s;
+    }
+
+    .cert-card:hover { border-color: var(--orange); }
+
+    .cert-icon {
+      font-size: 1.4rem;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    .cert-name {
+      font-weight: 500;
+      font-size: 0.9rem;
+      color: var(--charcoal);
+      margin-bottom: 2px;
+    }
+
+    .cert-issuer {
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
     /* CONNECT */
     .connect-links {
       display: flex;
@@ -355,6 +403,7 @@
     <ul class="nav-links">
       <li><a href="#about">About</a></li>
       <li><a href="#projects">Projects</a></li>
+      <li><a href="#certifications">Certs</a></li>
       <li><a href="#skills">Skills</a></li>
       <li><a href="#connect">Connect</a></li>
     </ul>
@@ -364,18 +413,19 @@
   <!-- HERO -->
   <section id="hero">
     <div class="avatar-placeholder">JJ</div>
-    <p class="eyebrow">Frontend Developer · Research Professional</p>
+    <p class="eyebrow">Frontend Developer · Research Professional · AI Practitioner</p>
     <h1 class="hero-title">Building with <em>intention</em>,<br>from CA.</h1>
     <div class="hero-roles">
       <span class="role-pill">HTML · CSS · JavaScript</span>
       <span class="role-pill">Research Assistance</span>
       <span class="role-pill">Technical Writing</span>
-      <span class="role-pill">R · Python</span>
+      <span class="role-pill">R · Python · SQL</span>
+      <span class="role-pill">Claude · Copilot · Gemini</span>
     </div>
     <p class="hero-bio">
       A second set of hands with a researcher's eye — I support clean interfaces,
-      clear documentation, and thoughtful problem-solving. Currently from CA,
-      building in public.
+      clear documentation, and thoughtful problem-solving. Certified in Claude 101
+      and AI Fluency. Currently from CA, building in public.
     </p>
     <div class="hero-cta">
       <a class="btn btn-primary" href="#projects">See my work</a>
@@ -403,8 +453,10 @@
         across B2C and B2B clients and cross-functional teams.
       </p>
       <p>
-        I'm now channeling that experience into frontend development: building interfaces
-        that are as well-researched as they are well-designed.
+        More recently I've been building hands-on with AI — pair coding alongside Claude,
+        Copilot, and Gemini to create working tools, automations, and documented workflows.
+        I'm now channeling all of it into frontend development and AI-assisted problem solving:
+        building things that are as well-researched as they are well-designed.
       </p>
       <blockquote>
         "I've come to realize I need to find more ways to better illustrate my
@@ -451,54 +503,59 @@
     </div>
   </section>
 
-  <!-- SKILLS -->
-  <section class="alt" id="skills">
+  <!-- CERTIFICATIONS -->
+  <section class="alt" id="certifications">
     <div class="inner">
-      <p class="eyebrow">Skills</p>
+      <p class="eyebrow">Certifications</p>
       <div class="section-divider"></div>
-      <h2>What I work with</h2>
-      <div class="skills-grid">
+      <h2>Credentials & training</h2>
+      <div class="cert-grid">
 
-        <div class="skill-group">
-          <h3>Frontend</h3>
-          <div class="skill-tags">
-            <span class="tag">HTML</span>
-            <span class="tag">CSS</span>
-            <span class="tag">JavaScript</span>
-            <span class="tag">WordPress</span>
+        <div class="cert-card">
+          <div class="cert-icon">🤖</div>
+          <div>
+            <div class="cert-name">Claude 101</div>
+            <div class="cert-issuer">Anthropic / Skilljar · 2025</div>
           </div>
         </div>
 
-        <div class="skill-group">
-          <h3>Research & Data</h3>
-          <div class="skill-tags">
-            <span class="tag">R</span>
-            <span class="tag">Python</span>
-            <span class="tag">SQL</span>
-            <span class="tag">LaTeX</span>
-            <span class="tag">Tidyverse</span>
-            <span class="tag">Jupyter</span>
+        <div class="cert-card">
+          <div class="cert-icon">⚡</div>
+          <div>
+            <div class="cert-name">AI Fluency</div>
+            <div class="cert-issuer">Anthropic / Skilljar · 2025</div>
           </div>
         </div>
 
-        <div class="skill-group">
-          <h3>Tools</h3>
-          <div class="skill-tags">
-            <span class="tag">Git</span>
-            <span class="tag">GitHub</span>
-            <span class="tag">Kaggle</span>
-            <span class="tag">Posit / RStudio</span>
-            <span class="tag">Zotero</span>
+        <div class="cert-card">
+          <div class="cert-icon">🧠</div>
+          <div>
+            <div class="cert-name">Mental Health First Aid (MHFA)</div>
+            <div class="cert-issuer">National Council for Mental Wellbeing</div>
           </div>
         </div>
 
-        <div class="skill-group">
-          <h3>Professional</h3>
-          <div class="skill-tags">
-            <span class="tag">Technical Writing</span>
-            <span class="tag">Transcription</span>
-            <span class="tag">Grant Research</span>
-            <span class="tag">Admin Support</span>
+        <div class="cert-card">
+          <div class="cert-icon">🫂</div>
+          <div>
+            <div class="cert-name">Crisis Counselor / Peer Support Specialist</div>
+            <div class="cert-issuer">The Trevor Project</div>
+          </div>
+        </div>
+
+        <div class="cert-card">
+          <div class="cert-icon">📊</div>
+          <div>
+            <div class="cert-name">Junior Data Scientist Mentee</div>
+            <div class="cert-issuer">Kaggle BIPOC Mentorship Program · 2021</div>
+          </div>
+        </div>
+
+        <div class="cert-card">
+          <div class="cert-icon">🎤</div>
+          <div>
+            <div class="cert-name">Plenary Speaker & Presenter</div>
+            <div class="cert-issuer">Nonprofit Technology Conference · 2015–2018</div>
           </div>
         </div>
 
@@ -506,21 +563,93 @@
     </div>
   </section>
 
-  <!-- CONNECT -->
-  <section id="connect">
-    <p class="eyebrow">Connect</p>
+  <!-- SKILLS -->
+  <section id="skills">
+    <p class="eyebrow">Skills</p>
     <div class="section-divider"></div>
-    <h2>Say hello</h2>
-    <p>
-      Open to entry-level frontend roles, returnships, and right-fit collaborations —
-      at startups or any-size organization that values curiosity and care.
-    </p>
-    <p>Multilingual: English · French · Spanish · ASL</p>
-    <div class="connect-links">
-      <a class="connect-link" href="https://www.linkedin.com/in/jayevajohnson" target="_blank">💼 LinkedIn</a>
-      <a class="connect-link" href="https://github.com/JayeVAJohnson" target="_blank">🐙 GitHub Profile</a>
-      <a class="connect-link" href="https://github.com/JayeVAJohnson/Portfolio" target="_blank">📁 Portfolio Repo</a>
-      <a class="connect-link" href="https://jayevajohnson.github.io/Portfolio" target="_blank">🌐 Live Site</a>
+    <h2>What I work with</h2>
+    <div class="skills-grid">
+
+      <div class="skill-group">
+        <h3>Frontend</h3>
+        <div class="skill-tags">
+          <span class="tag">HTML</span>
+          <span class="tag">CSS</span>
+          <span class="tag">JavaScript</span>
+          <span class="tag">WordPress</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>AI Tools</h3>
+        <div class="skill-tags">
+          <span class="tag cert">Claude</span>
+          <span class="tag cert">Copilot</span>
+          <span class="tag cert">Gemini</span>
+          <span class="tag">Pair coding w/ AI</span>
+          <span class="tag">Workflow automation</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>Research & Data</h3>
+        <div class="skill-tags">
+          <span class="tag">R</span>
+          <span class="tag">Python</span>
+          <span class="tag">SQL</span>
+          <span class="tag">LaTeX</span>
+          <span class="tag">Tidyverse</span>
+          <span class="tag">Jupyter</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>Tools</h3>
+        <div class="skill-tags">
+          <span class="tag">Git</span>
+          <span class="tag">GitHub</span>
+          <span class="tag">Kaggle</span>
+          <span class="tag">Posit / RStudio</span>
+          <span class="tag">Zotero</span>
+          <span class="tag">Salesforce</span>
+          <span class="tag">Tableau</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>Professional</h3>
+        <div class="skill-tags">
+          <span class="tag">Technical Writing</span>
+          <span class="tag">Documentation</span>
+          <span class="tag">Transcription</span>
+          <span class="tag">Grant Research</span>
+          <span class="tag">Crisis Support</span>
+          <span class="tag">Admin Support</span>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- CONNECT -->
+  <section class="alt" id="connect">
+    <div class="inner">
+      <p class="eyebrow">Connect</p>
+      <div class="section-divider"></div>
+      <h2>Say hello</h2>
+      <p>
+        Open to entry-level frontend roles, AI-assisted workflow projects, returnships,
+        and right-fit collaborations — at startups, nonprofits, or any organization
+        that values curiosity and care.
+      </p>
+      <p>Multilingual: English · French · Spanish · ASL</p>
+      <div class="connect-links">
+        <a class="connect-link" href="mailto:jmjohnson@duck.com">✉️ Email</a>
+        <a class="connect-link" href="https://www.linkedin.com/in/jayevajohnson" target="_blank">💼 LinkedIn</a>
+        <a class="connect-link" href="https://github.com/JayeVAJohnson" target="_blank">🐙 GitHub Profile</a>
+        <a class="connect-link" href="https://github.com/JayeVAJohnson/Portfolio" target="_blank">📁 Portfolio Repo</a>
+        <a class="connect-link" href="https://jayevajohnson.github.io/Portfolio" target="_blank">🌐 Live Site</a>
+      </div>
     </div>
   </section>
 
@@ -530,3 +659,8 @@
 
 </body>
 </html>
+
+
+
+
+  
