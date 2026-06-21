@@ -1,4 +1,4 @@
-# Jaye Johnson — Frontend Developerin Training & Research Professional
+# Jaye Johnson — Frontend Developer in Training & Research Professional
 
 Based in CA · [LinkedIn](https://www.linkedin.com/in/jayevajohnson) · [GitHub](https://github.com/JayeVAJohnson) · [Live Site](https://jayevajohnson.github.io/Portfolio)
 
