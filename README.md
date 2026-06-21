@@ -84,6 +84,6 @@ UC Irvine / Pomona College — B.A. Track in Progress · Communication & Media S
 
 ---
 
-*This portfolio was built using a W3Layouts template, forked from [Chelsea Tolnai](https://github.com/ChelseaTolnai/Portfolio). A living document — always evolving.*
+*All of this - all of us - a living document — always iterating.*
 
 🦄 Certifications in progress · [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayevajohnson)
