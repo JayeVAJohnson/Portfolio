@@ -236,6 +236,13 @@
 
     .project-card:hover { border-color: var(--orange); }
 
+    .project-card.featured {
+      border-color: #E8C4B0;
+      background: var(--orange-light);
+    }
+
+    .project-card.featured:hover { border-color: var(--orange); }
+
     .project-status {
       font-size: 0.75rem;
       font-weight: 500;
@@ -258,6 +265,12 @@
       margin-bottom: 1rem;
     }
 
+    .project-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
     .project-link {
       font-size: 0.85rem;
       font-weight: 500;
@@ -266,6 +279,27 @@
     }
 
     .project-link:hover { text-decoration: underline; }
+
+    .project-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 1rem;
+    }
+
+    .project-tag {
+      font-size: 0.75rem;
+      padding: 2px 8px;
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      color: var(--muted);
+    }
+
+    .project-card.featured .project-tag {
+      background: var(--orange-light);
+      border-color: #E8C4B0;
+    }
 
     /* SKILLS */
     .skills-grid {
@@ -418,7 +452,8 @@
       <span class="role-pill">Research Assistance</span>
       <span class="role-pill">Technical Writing</span>
       <span class="role-pill">R · Python · SQL</span>
-      <span class="role-pill">Claude · Copilot · ChatGPT ·  Gemini</span>
+      <span class="role-pill">Claude · Copilot · ChatGPT · Gemini</span>
+      <span class="role-pill">Claude Vision API · Web Speech API</span>
     </div>
     <p class="hero-bio">
       A second set of hands with a researcher's eye — I support clean interfaces,
@@ -438,27 +473,33 @@
       <div class="section-divider"></div>
       <h2>Researcher who codes.<br>Developer who investigates.</h2>
       <p>
-        I've spent 10+ years working across tech, research, and administration —
+        I am experienced in tech, research, and administration —
         including supporting a UCSF epidemiology team during Covid-19, where I contributed
         to public health data tracking, code transcription, and scientific writing.
         I was nominated alongside my colleagues for a Covid-19 Data Hero Award in 2021.
       </p>
       <p>
-        Before that, I spent years as an independent contractor on GoLance and Upwork —
-        providing Tier 1 technical support, transcription, account management, and
-        research for clients ranging from solopreneurs to UC San Francisco and Google/Freebase.
-        I also spent three years at Amazon in Seller Support and Customer Support, working
-        across B2C and B2B clients and cross-functional teams.
+        As an independent contractor, I have provided Tier 1 technical support,
+        account management, coding support, and research for clients ranging from
+        solopreneurs to UC San Francisco and Google/Freebase. I also have experience
+        at Amazon in Seller Support and Customer Support, working across B2C and B2B
+        clients and cross-functional teams.
       </p>
       <p>
-        More recently I've been building hands-on with AI — pair coding alongside Claude,
-        Copilot, and Gemini to create working tools, automations, and documented workflows.
-        I'm now channeling all of it into frontend development and AI-assisted problem solving:
-        building things that are as well-researched as they are well-designed.
+        In parallel, I have done community and care work — youth counseling,
+        peer support, mutual aid, and volunteer advocacy for LGBTQ+ and marginalized communities,
+        including The Trevor Project, MHFA leadership, and Ability One.
+      </p>
+      <p>
+        More recently I've been building hands-on with AI — helming coding and pair coding
+        with leadership and peers, alongside Claude, Copilot, ChatGPT, and Gemini, to create working
+        tools, automations, and documented workflows, including direct API integration with
+        Claude's Vision API. I'm now channeling all of it into frontend development and
+        AI-assisted problem solving: building things that are as well-researched as they
+        are well-designed.
       </p>
       <blockquote>
-        "I've come to realize I need to find more ways to better illustrate my
-        self-taught technical knowledge more demonstrably — so here I am, building in public."
+        "Self-taught, self-directed, and building in public."
       </blockquote>
     </div>
   </section>
@@ -470,53 +511,69 @@
     <h2>What I'm building</h2>
     <div class="project-grid">
 
-      <div class="project-card">
-        <p class="project-status">🌱 Active · 2026</p>
-        <p class="project-title">DashPirational</p>
-        <p class="project-desc">
-          A personal dashboard built with HTML, CSS, and JavaScript.
-          An exercise in clean UI, self-direction, and building something genuinely useful.
-        </p>
-        <a class="project-link" href="https://jayevajohnson.github.io/DashPirational/dashboard.html" target="_blank" rel="noopener noreferrer">
-          View live demo →
-        </a>
-        &nbsp;&nbsp;
-        <a class="project-link" href="https://github.com/JayeVAJohnson/DashPirational" target="_blank" rel="noopener noreferrer">
-          GitHub →
-        </a>
-      </div>
-
-      <div class="project-card">
-        <p class="project-status">🔊 Live · Open Source · 2026</p>
+      <!-- myReadOut — featured, in progress -->
+      <div class="project-card featured">
+        <p class="project-status">🔊 Live · Open Source · In Progress · 2026</p>
         <p class="project-title">myReadOut</p>
         <p class="project-desc">
-          A phone-powered universal screen reader built with Claude's vision API.
-          Point your camera at any screen — a kiosk, a TV, someone else's laptop —
-          and hear it read aloud. No install on the target device. Built as a PWA
+          A phone-powered universal screen reader built with Claude's Vision API.
+          Point your camera at any screen — a kiosk, a TV, someone else's laptop — and
+          hear it read aloud. No install required on the target device. Built as a PWA
           using HTML, JavaScript, and the Web Speech API. Pair coded with Claude.
         </p>
-        <a class="project-link" href="https://JayeVAJohnson.github.io/myreadout/prototype/" target="_blank" rel="noopener noreferrer">
-          Live app →
-        </a>
-        &nbsp;&nbsp;
-        <a class="project-link" href="https://JayeVAJohnson.github.io/myreadout/" target="_blank" rel="noopener noreferrer">
-          About →
-        </a>
-        &nbsp;&nbsp;
-        <a class="project-link" href="https://github.com/JayeVAJohnson/myreadout" target="_blank" rel="noopener noreferrer">
-          GitHub →
-        </a>
+        <div class="project-tags">
+          <span class="project-tag">HTML</span>
+          <span class="project-tag">JavaScript</span>
+          <span class="project-tag">PWA</span>
+          <span class="project-tag">Claude Vision API</span>
+          <span class="project-tag">Web Speech API</span>
+          <span class="project-tag">Accessibility</span>
+        </div>
+        <div class="project-links">
+          <a class="project-link" href="https://jayevajohnson.github.io/myreadout/prototype/" target="_blank" rel="noopener noreferrer">Live app →</a>
+          <a class="project-link" href="https://jayevajohnson.github.io/myreadout/" target="_blank" rel="noopener noreferrer">About →</a>
+          <a class="project-link" href="https://github.com/JayeVAJohnson/myreadout" target="_blank" rel="noopener noreferrer">GitHub →</a>
+        </div>
       </div>
+
+      <!-- DashPirational -->
       <div class="project-card">
-        <p class="project-status">🔧 In Progress</p>
+        <p class="project-status">🌱 Live · 2026</p>
+        <p class="project-title">DashPirational</p>
+        <p class="project-desc">
+          A calm, single-file personal dashboard designed to help you organize your life
+          with clarity and full ownership. No frameworks, no backend — runs entirely in
+          one HTML file. An exercise in clean UI, self-direction, and building something
+          genuinely useful.
+        </p>
+        <div class="project-tags">
+          <span class="project-tag">HTML</span>
+          <span class="project-tag">CSS</span>
+          <span class="project-tag">JavaScript</span>
+        </div>
+        <div class="project-links">
+          <a class="project-link" href="https://jayevajohnson.github.io/DashPirational/dashboard.html" target="_blank" rel="noopener noreferrer">View live demo →</a>
+          <a class="project-link" href="https://github.com/JayeVAJohnson/DashPirational" target="_blank" rel="noopener noreferrer">GitHub →</a>
+        </div>
+      </div>
+
+      <!-- Portfolio Site — now live -->
+      <div class="project-card">
+        <p class="project-status">✅ Live · 2026</p>
         <p class="project-title">Portfolio Site</p>
         <p class="project-desc">
           This site. Built from scratch using vanilla HTML, CSS, and JavaScript.
           A living document, as they all are.
         </p>
-        <a class="project-link" href="https://github.com/JayeVAJohnson/Portfolio" target="_blank" rel="noopener noreferrer">
-          GitHub →
-        </a>
+        <div class="project-tags">
+          <span class="project-tag">HTML</span>
+          <span class="project-tag">CSS</span>
+          <span class="project-tag">JavaScript</span>
+        </div>
+        <div class="project-links">
+          <a class="project-link" href="https://jayevajohnson.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">Live site →</a>
+          <a class="project-link" href="https://github.com/JayeVAJohnson/Portfolio" target="_blank" rel="noopener noreferrer">GitHub →</a>
+        </div>
       </div>
 
     </div>
@@ -605,7 +662,9 @@
           <span class="tag cert">Claude</span>
           <span class="tag cert">Copilot</span>
           <span class="tag cert">Gemini</span>
+          <span class="tag cert">ChatGPT</span>
           <span class="tag">Pair coding w/ AI</span>
+          <span class="tag">Prompt Engineering</span>
           <span class="tag">Workflow automation</span>
         </div>
       </div>
@@ -619,6 +678,8 @@
           <span class="tag">LaTeX</span>
           <span class="tag">Tidyverse</span>
           <span class="tag">Jupyter</span>
+          <span class="tag">GitHub</span>
+          <span class="tag">Overleaf</span>
         </div>
       </div>
 
@@ -636,6 +697,17 @@
       </div>
 
       <div class="skill-group">
+        <h3>APIs &amp; Integrations</h3>
+        <div class="skill-tags">
+          <span class="tag cert">Claude Vision API</span>
+          <span class="tag">Web Speech API</span>
+          <span class="tag">REST APIs</span>
+          <span class="tag">PWA</span>
+          <span class="tag">Freebase API</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
         <h3>Professional</h3>
         <div class="skill-tags">
           <span class="tag">Technical Writing</span>
@@ -644,6 +716,21 @@
           <span class="tag">Grant Research</span>
           <span class="tag">Crisis Support</span>
           <span class="tag">Admin Support</span>
+        </div>
+      </div>
+
+      <div class="skill-group">
+        <h3>People &amp; Community</h3>
+        <div class="skill-tags">
+          <span class="tag">Youth Counseling</span>
+          <span class="tag">Peer Support</span>
+          <span class="tag">Job Coaching</span>
+          <span class="tag">Client De-escalation</span>
+          <span class="tag">Mutual Aid</span>
+          <span class="tag">Volunteer Advocacy</span>
+          <span class="tag">Home Care</span>
+          <span class="tag">Pet Care</span>
+          <span class="tag">Tech-Assisted Home Security</span>
         </div>
       </div>
 
@@ -673,7 +760,7 @@
   </section>
 
   <footer>
-    <p>Jaye Johnson · Bay Area, CA · Built with HTML &amp; CSS · 2026</p>
+    <p>Jaye Johnson · CA · <a href="https://jayevajohnson.github.io/Portfolio/" target="_blank" rel="noopener noreferrer" style="color: var(--muted); text-decoration: underline;">Built with HTML &amp; CSS</a> · 2026</p>
   </footer>
 
 </body>
