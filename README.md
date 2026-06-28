@@ -148,7 +148,7 @@ Your Year in Tech is not a fork of any single program. It draws from the whole e
 
 ---
 
-## What is genuinely original here
+## What we're exploring
 
 Most of what you will find elsewhere covers the technical stack. What is different here:
 
