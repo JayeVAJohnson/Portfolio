@@ -1,0 +1,7 @@
+# Force HTML files containing PyScript to count as Python
+*.html linguist-language=Python
+
+# Ensure standard web assets are correctly classified and never hidden
+*.css linguist-language=CSS linguist-detectable=true
+*.js linguist-language=JavaScript linguist-detectable=true
+*.py linguist-language=Python linguist-detectable=true
