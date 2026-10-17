@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Jaye Johnson — Frontend Developer & Research Professional</title>
+<title>portfolio - Jaye Johnson — Frontend Developer &amp; Research Professional</title>
 <meta name="description" content="Jaye Johnson — building interfaces and solving problems with code, research, and AI.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -75,6 +75,13 @@ nav.mainnav a:hover{background:var(--tint);color:var(--navy)}
 
 .about-grid{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:start}
 .about-grid p{font-size:16px;line-height:1.8}
+
+.worked-with-section{padding:40px 0;border-bottom:1px solid var(--line);background:var(--tint)}
+.worked-with-label{font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--text-light);text-align:center;margin-bottom:28px}
+.logo-row{display:flex;align-items:center;justify-content:center;gap:56px;flex-wrap:wrap}
+.logo-item{display:flex;align-items:center;opacity:0.75;transition:opacity 0.2s}
+.logo-item:hover{opacity:1}
+.logo-item svg{height:32px;width:auto}
 
 .projects-section{padding:80px 0;border-bottom:1px solid var(--line)}
 .project-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;margin-top:32px}
@@ -228,6 +235,40 @@ nav.mainnav a:hover{background:var(--tint);color:var(--navy)}
         <div>
           <p>As an independent contractor, I've provided technical support, account management, coding support, and research for clients ranging from solopreneurs to UC San Francisco and Google. I also have experience at Amazon in Seller Support and Customer Support, working across B2C and B2B clients and cross-functional teams.</p>
           <p class="muted">More recently, I've been building hands-on with AI — helming coding and pair coding with Claude, Copilot, ChatGPT, and Gemini to create working tools, automations, and documented workflows. I'm channeling this into frontend development and AI-assisted problem-solving: building things that are as well-researched as they are well-designed.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- WORKED WITH -->
+  <section class="worked-with-section">
+    <div class="wrap">
+      <p class="worked-with-label">Who I've worked with</p>
+      <div class="logo-row">
+        <!-- UCSF -->
+        <div class="logo-item">
+          <svg viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg" aria-label="UCSF">
+            <text x="0" y="28" font-family="'Work Sans',sans-serif" font-weight="700" font-size="26" fill="#2a3a4a" letter-spacing="-0.5">UCSF</text>
+          </svg>
+        </div>
+        <!-- Amazon -->
+        <div class="logo-item">
+          <svg viewBox="0 0 130 44" xmlns="http://www.w3.org/2000/svg" aria-label="Amazon">
+            <text x="0" y="28" font-family="'Work Sans',sans-serif" font-weight="700" font-size="24" fill="#232F3E" letter-spacing="-0.3">amazon</text>
+            <path d="M4 35 Q32 44 68 39 Q90 36 108 30" stroke="#FF9900" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+            <path d="M104 27 L110 30 L106 35" fill="#FF9900"/>
+          </svg>
+        </div>
+        <!-- Google -->
+        <div class="logo-item">
+          <svg viewBox="0 0 110 40" xmlns="http://www.w3.org/2000/svg" aria-label="Google">
+            <text x="0" y="28" font-family="'Work Sans',sans-serif" font-weight="400" font-size="24" fill="#2a3a4a" letter-spacing="-0.2">G</text>
+            <text x="17" y="28" font-family="'Work Sans',sans-serif" font-weight="400" font-size="24" fill="#3a4a5a">o</text>
+            <text x="32" y="28" font-family="'Work Sans',sans-serif" font-weight="400" font-size="24" fill="#2a3a4a">o</text>
+            <text x="47" y="28" font-family="'Work Sans',sans-serif" font-weight="400" font-size="24" fill="#3a4a5a">g</text>
+            <text x="62" y="28" font-family="'Work Sans',sans-serif" font-weight="400" font-size="24" fill="#2a3a4a">l</text>
+            <text x="71" y="28" font-family="'Work Sans',sans-serif" font-weight="400" font-size="24" fill="#3a4a5a">e</text>
+          </svg>
         </div>
       </div>
     </div>
